@@ -1,0 +1,32 @@
+{
+    "description": "Season 19 Godroll Controller Wishlist",
+    "name": "BaconMonster64",
+    "data": [
+        {
+            "description": "",
+            "hash": 3568377122,
+            "name": "PVE Godroll ",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    4104185692
+                ],
+                [
+                    2839173408
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "Controller"
+            ]
+        }
+    ]
+}
